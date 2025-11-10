@@ -1,0 +1,7 @@
+{
+  "input_file": "data/input_sample.json",
+  "output_file": "data/output_example.json",
+  "log_level": "INFO",
+  "max_retries": 3,
+  "retry_backoff_seconds": 1.5
+}

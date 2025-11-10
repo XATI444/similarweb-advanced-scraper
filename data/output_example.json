@@ -1,0 +1,184 @@
+[
+  {
+    "domain": "twitter.com",
+    "overview": {
+      "companyName": "Twitter",
+      "visitsTotalCount": 6141624959,
+      "pagesPerVisit": 10.09,
+      "visitsAvgDurationFormatted": "00:10:52",
+      "bounceRate": 0.319
+    },
+    "interests": [
+      {
+        "category": "Social Networks",
+        "affinityScore": 0.912
+      }
+    ],
+    "competitors": {
+      "topSimilarityCompetitors": [
+        {
+          "domain": "instagram.com",
+          "visitsTotalCount": 6674146453,
+          "similarityScore": 0.95
+        },
+        {
+          "domain": "facebook.com",
+          "visitsTotalCount": 16717821583,
+          "similarityScore": 0.93
+        },
+        {
+          "domain": "linkedin.com",
+          "visitsTotalCount": 1811660548,
+          "similarityScore": 0.91
+        }
+      ],
+      "competitorsCount": 3
+    },
+    "searchesSource": {
+      "organicShare": 0.821,
+      "paidShare": 0.179,
+      "topKeywords": [
+        {
+          "keyword": "twitter",
+          "share": 0.132
+        },
+        {
+          "keyword": "twitter login",
+          "share": 0.097
+        }
+      ]
+    },
+    "incomingReferrals": {
+      "topReferrals": [
+        {
+          "domain": "ref1.example.com",
+          "share": 0.041
+        },
+        {
+          "domain": "ref2.example.com",
+          "share": 0.033
+        }
+      ]
+    },
+    "adsSource": {
+      "networks": [
+        {
+          "network": "Google Ads",
+          "share": 0.412
+        },
+        {
+          "network": "Meta Ads",
+          "share": 0.311
+        },
+        {
+          "network": "Programmatic",
+          "share": 0.183
+        },
+        {
+          "network": "Affiliate",
+          "share": 0.094
+        }
+      ]
+    },
+    "socialNetworksSource": {
+      "networks": [
+        {
+          "network": "Facebook",
+          "share": 0.221
+        },
+        {
+          "network": "Instagram",
+          "share": 0.207
+        },
+        {
+          "network": "Twitter",
+          "share": 0.198
+        },
+        {
+          "network": "YouTube",
+          "share": 0.174
+        },
+        {
+          "network": "LinkedIn",
+          "share": 0.11
+        },
+        {
+          "network": "TikTok",
+          "share": 0.09
+        }
+      ]
+    },
+    "technologies": [
+      "nginx",
+      "react",
+      "cloudflare",
+      "django"
+    ],
+    "recentAds": [
+      {
+        "id": "twitter-com-ad-1",
+        "title": "twitter.com Campaign #1",
+        "imageUrl": "https://cdn.example.com/twitter.com/ads/1.png",
+        "clickUrl": "https://twitter.com/?utm_campaign=ad-1"
+      }
+    ],
+    "demographics": {
+      "ageDistribution": [
+        {
+          "minAge": 25,
+          "maxAge": 34,
+          "value": 0.295
+        },
+        {
+          "minAge": 18,
+          "maxAge": 24,
+          "value": 0.287
+        }
+      ],
+      "genderDistribution": {
+        "male": 0.665,
+        "female": 0.335
+      }
+    },
+    "geography": {
+      "topCountriesTraffics": [
+        {
+          "countryAlpha2Code": "US",
+          "visitsShare": 0.236
+        },
+        {
+          "countryAlpha2Code": "JP",
+          "visitsShare": 0.159
+        }
+      ]
+    },
+    "trafficSources": {
+      "direct": 0.376,
+      "search": 0.312,
+      "social": 0.121,
+      "referrals": 0.097,
+      "ads": 0.059,
+      "mail": 0.035
+    },
+    "ranking": {
+      "globalRank": 45,
+      "countryRank": 12,
+      "categoryRank": 3
+    },
+    "traffic": {
+      "historical": [
+        {
+          "date": "2024-12",
+          "visits": 480000000
+        },
+        {
+          "date": "2025-01",
+          "visits": 492000000
+        }
+      ],
+      "visitsTotalCount": 6141624959,
+      "averageMonthlyVisits": 511801, 
+      "visitsGrowthRate": 0.025
+    }
+  }
+]

